@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/joe-mann/osm/pkg/pbf/OSMPBF"
+	"github.com/joe-mann/go-osm/pbf/OSMPBF"
 )
 
 type Info struct {

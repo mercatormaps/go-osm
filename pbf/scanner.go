@@ -9,7 +9,7 @@ import (
 	"sync/atomic"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/joe-mann/osm/pkg/pbf/OSMPBF"
+	"github.com/joe-mann/go-osm/pbf/OSMPBF"
 )
 
 type Scanner struct {

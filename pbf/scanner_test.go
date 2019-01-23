@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/joe-mann/osm/pbf"
+	"github.com/joe-mann/go-osm/pbf"
 	"github.com/stretchr/testify/require"
 )
 

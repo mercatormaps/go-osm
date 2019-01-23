@@ -6,9 +6,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/joe-mann/osm/pkg/pbf"
+	"github.com/joe-mann/go-osm/pbf"
 	"golang.org/x/text/message"
-	"gopkg.in/cheggaaa/pb.v1"
+	"gopkg.in/cheggaaa/pb.v1" 
 )
 
 func main() {
