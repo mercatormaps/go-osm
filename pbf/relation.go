@@ -1,7 +1,7 @@
 package pbf
 
 import (
-	"github.com/joe-mann/go-osm/pbf/OSMPBF"
+	"github.com/mercatormaps/go-osm/pbf/OSMPBF"
 )
 
 type Relation struct {

@@ -1,4 +1,4 @@
-module github.com/joe-mann/go-osm
+module github.com/mercatormaps/go-osm
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/joe-mann/go-osm/pbf/OSMPBF"
+	"github.com/mercatormaps/go-osm/pbf/OSMPBF"
 )
 
 type Tag struct {

@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/joe-mann/go-osm/pbf/OSMPBF"
+	"github.com/mercatormaps/go-osm/pbf/OSMPBF"
 )
 
 type Header struct {

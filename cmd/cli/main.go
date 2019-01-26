@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/joe-mann/go-osm/pbf"
+	"github.com/mercatormaps/go-osm/pbf"
 	"golang.org/x/text/message"
 	"gopkg.in/cheggaaa/pb.v1" 
 )
